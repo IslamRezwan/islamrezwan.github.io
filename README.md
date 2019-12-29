@@ -2,7 +2,7 @@
 
 # About Me
 
-This is a simple and clean webpage about me, Rezwan Islam. It showcases some of my work as a developer, tells people a little something about who I am and also provides links to my social media footprint. If you're hiring, you can check out my Résumé [here](https://github.com/IslamRezwan/rez_one/blob/master/Resume%20-%20Rezwan%20Islam.pdf).
+This is a simple and clean webpage about me, Rezwan Islam. It showcases some of my work as a developer, tells people a little something about who I am and also provides links to my social media footprint. If you're hiring, you can check out my Résumé [here](https://github.com/IslamRezwan/islamrezwan.github.io/blob/master/Resume%20-%20Rezwan%20Islam.pdf).
 
 ## Contributing
 
